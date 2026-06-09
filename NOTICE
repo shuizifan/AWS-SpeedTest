@@ -1,0 +1,31 @@
+AWS-SpeedTest
+Copyright (C) 2026 AWS-SpeedTest contributors
+
+This distribution includes an unmodified executable from:
+
+  Project: XIU2/CloudflareSpeedTest
+  Author: XIU2 and CloudflareSpeedTest contributors
+  Repository: https://github.com/XIU2/CloudflareSpeedTest
+  Version: v2.3.4
+  Distributed file: cfst.exe (Windows x64)
+  License: GNU General Public License, version 3
+  Corresponding source:
+    https://github.com/XIU2/CloudflareSpeedTest/tree/v2.3.4
+    https://github.com/XIU2/CloudflareSpeedTest/archive/refs/tags/v2.3.4.zip
+
+SHA-256 of the distributed cfst.exe:
+
+  1FAF41130C1CAB185EC82CA7DDB58108574FDDBAE5B0F85CC92C07EE87AEC331
+
+AWS-SpeedTest does not modify cfst.exe. This project adds separate Windows
+batch and PowerShell automation, Amazon domain configuration, CloudFront IP
+range configuration, speed-test result selection, and Windows hosts backup
+and update behavior.
+
+XIU2 and the CloudflareSpeedTest contributors do not maintain, endorse, or
+provide support for AWS-SpeedTest. Issues specific to this project should be
+reported in the AWS-SpeedTest repository.
+
+Amazon, Amazon Web Services, AWS, Cloudflare, and related marks belong to
+their respective owners. This project is not affiliated with or endorsed by
+those companies.

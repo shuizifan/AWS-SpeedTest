@@ -1,0 +1,22 @@
+# Runtime output
+result.csv
+hosts_backup_*.bak
+*.log
+
+# Release artifacts
+release/
+dist/
+AWS-SpeedTest-*.zip
+
+# Local editor and OS files
+.vs/
+.vscode/
+*.user
+*.suo
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+~$*
